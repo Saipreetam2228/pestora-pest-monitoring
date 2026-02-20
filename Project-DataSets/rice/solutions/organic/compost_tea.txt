@@ -1,0 +1,98 @@
+COMPOST TEA – Organic Pest & Disease Management Solution
+Crop: Rice (Also applicable for Maize and Vegetables)
+Category: Organic / Eco-Friendly Treatment
+
+------------------------------------------------------------
+
+1. What is Compost Tea?
+
+Compost tea is a liquid organic fertilizer and plant health booster 
+made by steeping mature compost in water. It contains beneficial 
+microorganisms, nutrients, and natural compounds that help suppress 
+harmful pathogens and improve plant immunity.
+
+------------------------------------------------------------
+
+2. Purpose in Pestora System
+
+Compost tea is recommended when:
+
+• Pest damage is mild to moderate
+• Confidence score is between 60% – 85%
+• Leaf symptoms are early-stage infection
+• Farmer prefers organic-first approach
+
+It helps in strengthening plant resistance rather than directly 
+killing pests.
+
+------------------------------------------------------------
+
+3. Benefits
+
+• Enhances natural plant immunity
+• Improves soil microbial activity
+• Suppresses fungal diseases (e.g., Leaf Blast, Brown Spot)
+• Environmentally safe
+• Non-toxic to humans and animals
+• Improves overall crop growth
+
+------------------------------------------------------------
+
+4. Preparation Method
+
+Ingredients:
+• 1 kg well-decomposed compost
+• 10 liters clean water
+• 1 tablespoon jaggery (optional – boosts microbial growth)
+
+Steps:
+1. Place compost in a cloth bag.
+2. Submerge in a bucket of water.
+3. Stir thoroughly.
+4. Let it steep for 24–48 hours.
+5. Filter before spraying.
+
+------------------------------------------------------------
+
+5. Application Method
+
+• Spray directly on affected leaves.
+• Apply during early morning or late evening.
+• Repeat every 7–10 days.
+• Avoid spraying during heavy rain.
+
+------------------------------------------------------------
+
+6. Effectiveness Level
+
+Best suited for:
+• Partially damaged leaves
+• Early fungal infections
+• Preventive care
+
+Not sufficient for:
+• Severe infestation (>90% damage)
+• Advanced fungal spread
+
+------------------------------------------------------------
+
+7. When to Escalate
+
+If symptoms worsen after 2–3 applications:
+→ Move to chemical treatment (government-approved only)
+→ Follow Pestora confidence-based recommendation logic
+
+------------------------------------------------------------
+
+Safety Note:
+Compost tea should be prepared hygienically.
+Use fresh compost to avoid harmful bacteria contamination.
+
+------------------------------------------------------------
+
+Pestora Recommendation Logic:
+Organic solutions are always suggested first.
+Chemical pesticides are recommended only when:
+Confidence Score ≥ 90%
+Severity Level = Fully Damaged
+------------------------------------------------------------
